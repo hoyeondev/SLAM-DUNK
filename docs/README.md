@@ -5,4 +5,4 @@
 
 #### 2. [시퀀스 다이어그램](/docs/251016.md)
 
-#### 4. [Windows + Ubuntu 듀얼 부팅 설치 가이드](/docs/251017.md)
+#### 3. [Windows + Ubuntu 듀얼 부팅 설치 가이드](/docs/251017.md)
