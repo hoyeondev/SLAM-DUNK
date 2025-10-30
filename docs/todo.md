@@ -14,4 +14,5 @@
 
 ### 기타
 - [ ] 플로우 차트 보완
+  - [ ] [참고 링크](https://pinkwink.kr/1457#google_vignette)
 - [ ] slam 동작 영상 촬영
