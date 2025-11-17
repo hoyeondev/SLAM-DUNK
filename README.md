@@ -5,6 +5,7 @@ SLAM DUNK 팀 프로젝트 작업 관리 레포지토리
 - [문서 모음](/docs/)
 - [SLAM-DUNK Drive](https://drive.google.com/drive/folders/1HWarJ3esT4nADFtnINjBP2QkNW5H7jF1)
 - [scout mini 패키지 github](https://github.com/ngyh-1002/scout_robot)
+- [web 소스 github](https://github.com/mina607/slamdunk-webservice)
 
 ## 주요 구성요소
 
