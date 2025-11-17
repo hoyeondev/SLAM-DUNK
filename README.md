@@ -15,6 +15,6 @@ SLAM DUNK 팀 프로젝트 작업 관리 레포지토리
 | 🌐 웹 서버          | Spring / mustache / WebSocket          | 주문 데이터 처리, ROS2 브리지와 통신          |
 | 🤖 ROS2 브리지      | rosbridge_websocket / ros2 node        | 웹 서버 ↔ 로봇 간 ROS 메시지 전달           |
 | 🚗 로봇            | Scout Mini (Nav2)                      | 자율주행 및 물품 운반                     |
-| 💡 IoT 장치(객실 단말) | Raspberry Pi Pico (RFID + LED + Piezo) | 로봇 도착 알림, 고객 인증(RFID), 피드백 신호 처리 |
+| 💡 IoT 장치 | Raspberry Pi Pico (RFID + LED + Piezo) | 로봇 도착 알림, 고객 인증(RFID), 피드백 신호 처리 |
 | 📦 백엔드 DB        | H2 Database                            | 주문 및 배달 상태 저장                    |
 | 🏨 관리자           | 관리자 페이지                                | 주문 모니터링, 로봇 상태 관리                |
