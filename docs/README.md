@@ -14,3 +14,7 @@
 #### 4. [scout mini 관련](https://github.com/jaemin6/scout-mini?tab=readme-ov-file#scout-mini-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95-%ED%8C%A8%ED%82%A4%EC%A7%80-)
 
 #### 5. [slam 맵 정보](/docs/maps)
+
+#### 6. 발표 관련 자료
+- [ppt 목차 구성](/docs/251118.md)
+- [웹 erd 다이어그램](/docs/251122.md)
