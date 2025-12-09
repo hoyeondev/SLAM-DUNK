@@ -1,6 +1,12 @@
 # 🏀 SLAM-DUNK
 SLAM DUNK 팀 프로젝트 레포지토리
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6397386e-88da-431b-ada4-2997b7bcf01b" width="70%" />
+</div>
+
+
 ## 목차
 1. 📝 [개요](#1-개요)
 2. 🛠 [기술 및 도구](#2-기술-및-도구)
