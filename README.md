@@ -3,8 +3,8 @@ SLAM DUNK 팀 프로젝트 레포지토리
 
 ## 목차
 1. 📝 [개요](#1-개요)
-2. 기술 및 도구
-3. 기능 구현
+2. 🛠 [기술 및 도구](#2-기술-및-도구)
+3. ✨ [기능 구현](#3-기능-구현)
 4. 기타
    - [작업 로그](/logs/)
    - [문서 모음](/docs/)
@@ -30,11 +30,35 @@ SLAM DUNK 팀 프로젝트 레포지토리
    - 웹/서버 시스템을 통해 주문 관리, 로봇 제어, 실시간 상태 모니터링을 제공한다.
    - 픽업 감지 자동화를 통해 사용자가 물품을 수령하면 로봇이 스스로 복귀한다.
 - **데모 영상** : [링크](https://drive.google.com/file/d/1teNeuA4PCNzczVyBMFRd4MRukm5wdZgx/view?usp=sharing)
+- **발표 자료** : [링크](https://drive.google.com/file/d/17jwdtCK9oZEpcpXtljCrXIq7x8jNPi8A/view?usp=sharing)
 
 ---
 
+## 2. 🛠기술 및 도구
 
-## 주요 구성요소
+### Scout mini
+> **언어** : <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> <img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>  
+> **환경** : <img alt="ros2 humble" src ="https://img.shields.io/badge/ROS2%20Humble-22314E.svg?&style=flat-square&logo=ros&logoColor=white"/> <img alt="ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white"/> <img alt="vscode" src ="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=visualstudiocode&logoColor=white"/> <img alt="thonny" src ="https://img.shields.io/badge/Thonny-5A9EEA.svg?&style=flat-square&logo=python&logoColor=white"/>  
+> **라이브러리** :  <img alt="nav2" src ="https://img.shields.io/badge/Navigation2-22314E.svg?&style=flat-square&logo=ros&logoColor=white"/> <img alt="opencv" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/> <img alt="rosbridge" src ="https://img.shields.io/badge/rosbridge-22314E.svg?&style=flat-square&logo=ros&logoColor=white"/>  
+> **협업** :  <img alt="github" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=github&logoColor=white"/> <img alt="slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/>  
+ 
+
+### Web
+
+> **프론트엔드** :  <img alt="mustache" src ="https://img.shields.io/badge/Mustache-000000.svg?&style=flat-square&logo=mustache&logoColor=white"/> <img alt="bootstrap5" src ="https://img.shields.io/badge/Bootstrap%205-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>  
+> **백엔드** :  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white"/> <img alt="h2" src ="https://img.shields.io/badge/H2%20Database-1A4C8B.svg?&style=flat-square&logo=h2&logoColor=white"/>  
+> **환경** :  <img alt="intellij" src ="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white"/> <img alt="spring boot" src ="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/> <img alt="gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=flat-square&logo=gradle&logoColor=white"/>  
+> **라이브러리** :  <img alt="websocket" src ="https://img.shields.io/badge/WebSocket-333333.svg?&style=flat-square&logo=websocket&logoColor=white"/> <img alt="rosbridge" src ="https://img.shields.io/badge/rosbridge-22314E.svg?&style=flat-square&logo=ros&logoColor=white"/> <img alt="restapi" src ="https://img.shields.io/badge/REST%20API-005571.svg?&style=flat-square&logo=apachespark&logoColor=white"/>  
+> **협업** :  <img alt="github" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=github&logoColor=white"/> <img alt="slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/>  
+
+
+
+---
+
+## 3. ✨기능 구현
+
+
+### 주요 구성요소
 
 | 구분               | 구성요소                                   | 역할                               |
 | ---------------- | -------------------------------------- | -------------------------------- |
